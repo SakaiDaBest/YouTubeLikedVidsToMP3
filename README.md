@@ -54,21 +54,6 @@ cd youtube-mp3-downloader</code></pre>
     <li>Saves to: <code>~/Downloads/songs/</code></li>
   </ol>
 
-  <h2>📂 Output Example</h2>
-  <table>
-    <tr>
-      <th>🎵 Song Title</th>
-      <th>Channel Name</th>
-    </tr>
-    <tr>
-      <td>How Do I Say Goodbye - Dean Lewis</td>
-      <td>Dean Lewis</td>
-    </tr>
-    <tr>
-      <td>Counting Stars - OneRepublic</td>
-      <td>OneRepublic</td>
-    </tr>
-  </table>
 
   <h2>🧠 Credits</h2>
   <ul>
